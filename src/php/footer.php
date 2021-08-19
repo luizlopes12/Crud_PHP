@@ -1,6 +1,6 @@
 </div>
 <footer class="footer">
-    <p>Opa</p>
+    <p>Luizera do balaco baco</p>
 </footer>
 
 </body>

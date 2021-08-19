@@ -3,7 +3,7 @@ include "./header-pages.php";
 include "connect.php";
 ?>
 
-
+    <!--Manda os dados dos inputs para o create.php que manda pro banco-->
     <form action="create.php" method="post" id="cadastro-form">
     <p>
     <label class="create-lbl">Nome do Herói:</label>
