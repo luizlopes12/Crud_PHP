@@ -20,7 +20,7 @@ while($show = mysqli_fetch_array($query)){
         <a href="crud/delete.php?id=<?php echo $show[0];?>">Excluir</a>
         </p>
         <!--Imagem do heroi em .jpg-->
-        <p class="imagem"><img src="./src/imgs/<?php echo $show[3]?>" alt="Imagem do heroi"></p>
+        <p class="imagem"><img src="arquivos/<?php echo $show[3] ?>"></p>
         </div>
     </div>
 <?php
